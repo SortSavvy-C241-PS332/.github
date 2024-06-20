@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/SortSavvy-C241-PS332/">
-    <img src="https://github.com/SortSavvy-C241-PS332/.github/blob/main/profile/Textmark%20logo.png" alt="Logo" width="200" height="200">
+    <img src="https://github.com/SortSavvy-C241-PS332/.github/blob/main/profile/Textmark%20logo.png" alt="Logo" width="150">
   </a>
 </div>
 
