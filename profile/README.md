@@ -9,10 +9,6 @@
   </a>
 </div>
 
-# About The Project
-
-SortSavvy is a mobile application designed to educate Indonesian youth on proper waste sorting and recycling practices. By leveraging machine learning for waste classification and providing interactive educational content, the app aims to raise awareness and promote sustainable waste management behaviors. Users can upload images of waste for instant classification, engage with quizzes, and earn badges for their progress. Our goal is to foster early environmental awareness and contribute to a sustainable future.
-
 # Team Members
 ## Team ID : C241-PS332
 
@@ -25,6 +21,10 @@ SortSavvy is a mobile application designed to educate Indonesian youth on proper
 | Heryoka Kurniawan             | C012D4KY0593 | Cloud Computing    |
 | Muhammad Syauqi Frizman       | A005D4KY4492 | Mobile Development |
 | Brigitta Christa Natasha Aulia       | A185D4KX3667 | Mobile Development |
+
+# About The Project
+
+SortSavvy is a mobile application designed to educate Indonesian youth on proper waste sorting and recycling practices. By leveraging machine learning for waste classification and providing interactive educational content, the app aims to raise awareness and promote sustainable waste management behaviors. Users can upload images of waste for instant classification, engage with quizzes, and earn badges for their progress. Our goal is to foster early environmental awareness and contribute to a sustainable future.
 
 ## 📁 Repository
 
