@@ -28,8 +28,8 @@ SortSavvy is a mobile application designed to educate Indonesian youth on proper
 
 ## 📁 Repository
 
-- [Machine Learning Repository](https://github.com/SortSavvy-C241-PS332/SortSavvy_MachineLearning)
 - [Android Application Repository](https://github.com/SortSavvy-C241-PS332/SortSavvy_Mobile)
+- [Machine Learning Repository](https://github.com/SortSavvy-C241-PS332/SortSavvy_MachineLearning)
 - [Cloud Computing Backend API Repository](https://github.com/SortSavvy-C241-PS332/SortSavvy_BackendCloudComputing)
 
 ## SortSavvy Application
